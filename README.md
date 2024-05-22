@@ -1,7 +1,7 @@
 <!--![Profile Banner](ezgif.com-add-text.gif)-->
 
-## Hello there, I am Ojas Ketkar! 👋
-<br/>
+# Hello there, I am Ojas Ketkar! 👋
+
 I'm a passionate Computer Engineering undergraduate at VIT Pune. I love exploring new tools and technologies that fascinate me. I am always on the lookout for new learning opportunities and enjoy coming up with new projects to work on.
 
 My primary interests lie in the fields of *Software Engineering* , *Web Technologies* and *Artificial Intelligence and Machine Learning, particularly the fields of **Natural Language Processing (NLP)* and *Generative AI*.
